@@ -1,4 +1,4 @@
-export const API_SERVICES = "http://localhost:9000/";
+export const API_SERVICES = "http://localhost:9000/v1/product/";
 
 export const categories = [
   { value: "electronics", label: "Electronics" },
